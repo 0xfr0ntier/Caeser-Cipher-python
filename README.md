@@ -1,3 +1,3 @@
 # Caeser Cipher
 
-Caeser Cipher encoder/decoder written in python 2.7
+Caeser Cipher encoder and decoder written in python.
